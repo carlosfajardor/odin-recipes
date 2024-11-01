@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(195, 194, 204);
+    font-family: sans-serif;
+    color: aliceblue;
+}
+
+.card {
+    width: 500px;
+    background: #5140a9;
+    margin: 20px auto;
+    border-radius: 20px;
+    padding: 32px;
+}
+
+.title {
+    text-align: center;
+}
+
+img {
+    width: 500px;
+    border-radius: 20px;
+}

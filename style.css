@@ -8,10 +8,19 @@ body {
     width: 500px;
     background: #5140a9;
     margin: 20px auto;
-    border-radius: 10px;
+    border-radius: 20px;
     padding: 32px;
 }
 
 .title {
     text-align: center;
+}
+
+li a {
+    color: rgb(54, 214, 18);
+}
+
+li a .button {
+    background: red;
+    color: white;
 }
